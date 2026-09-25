@@ -1,57 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=JANCY%20RANI%20T&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20|%20ML%20|%20Deep%20Learning%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:2563EB,100:7C3AED&height=180&section=header&text=JANCY%20RANI%20T&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20ML%20Deep%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-<table width="100%">
+<table>
 <tr>
-<td width="30%" valign="top">
+<td width="32%" valign="top">
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/jancyranijesus2001.png" width="170"/>
+</p>
 
-<img src="https://avatars.githubusercontent.com/jancyranijesus2001" width="150" style="border-radius:50%;border:3px solid #7B61FF"/>
+<h3 align="center">Jancy Rani T</h3>
 
-### Jancy Rani T
-**AI Engineer | ML Enthusiast | Full Stack Developer**
+<p align="center">
+Python Developer <br>
+AI • Machine Learning • Deep Learning
+</p>
 
-📍 Tamil Nadu, India
+<p align="center">
+📍 Coimbatore, Tamil Nadu, India
+</p>
 
-[![Email](https://img.shields.io/badge/-jancy.rani%40example.com-24292e?style=flat-square&logo=gmail&logoColor=white)](mailto:jancy.rani@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jancyrani-t)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jancyranijesus2001.dev)
+<p align="center">
+<a href="https://linkedin.com/in/jancy-rani-t-9a02a82b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-</div>
+<a href="https://github.com/jancyranijesus2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-**About Me**
+### About Me
 
-Passionate about building AI-powered applications that solve real-world problems. Exploring Deep Learning, Computer Vision, NLP and Full Stack Development.
-
-- 🐍 Python Development
-- 🤖 Machine Learning
-- 🧠 Deep Learning (CNN, LSTM, YOLO, BERT)
-- 👁️ Computer Vision
-- 🩻 Medical Image Analysis
+- 🐍 Python Developer
+- 🤖 Machine Learning Engineer
+- 🧠 Deep Learning (CNN, LSTM, YOLO)
+- 👁 Computer Vision
 - 💬 NLP & Generative AI
-- 🌐 Flask / Django / React
-- 🗄️ SQL / SQLite
+- 🌐 Django • Flask • React
+- 🗄 PostgreSQL • MySQL
 
 ---
 
-**Tech Stack**
+### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,react,nodejs,html,css,js,sql,git,github,vscode,linux" />
-
----
-
-<a href="#"><img src="https://img.shields.io/badge/⬇️_Download_Resume-24292e?style=for-the-badge" /></a>
+<img src="https://skillicons.dev/icons?i=python,django,flask,tensorflow,pytorch,opencv,react,postgres,mysql,git,github,vscode,linux"/>
 
 </td>
-<td width="70%" valign="top">
+
+<td width="68%" valign="top">
 
 <div align="center">
 
-### WELCOME TO MY GITHUB
-# Building Intelligent Solutions with Machine Learning & Deep Learning
-*"Code. Train. Innovate. Repeat."*
+## WELCOME TO MY GITHUB
+
+# Building Intelligent AI Solutions
+
+*Code • Train • Innovate • Repeat*
 
 </div>
 
@@ -59,44 +61,31 @@ Passionate about building AI-powered applications that solve real-world problems
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjancyranijesus2001&label=Repositories&query=%24.public_repos&style=for-the-badge&color=7B61FF)
-![Followers](https://img.shields.io/github/followers/jancyranijesus2001?label=Followers&style=for-the-badge&color=0EA5A4)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjancyranijesus2001&label=Profile&query=%24.login&style=for-the-badge&color=FFB800)
-![Profile Views](https://komarev.com/ghpvc/?username=jancyranijesus2001&label=Profile+Views&style=for-the-badge&color=blueviolet)
+![](https://img.shields.io/github/followers/jancyranijesus2001?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/stars/jancyranijesus2001?style=for-the-badge&color=2563EB)
+![](https://komarev.com/ghpvc/?username=jancyranijesus2001&style=for-the-badge&color=0EA5A4)
 
 </div>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jancyranijesus2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=jancyranijesus2001&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jancyranijesus2001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<img width="49%" src="https://streak-stats.demolab.com?user=jancyranijesus2001&theme=tokyonight&hide_border=true"/>
+</p>
 
-**Top Languages (Donut)**
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&layout=donut&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&theme=tokyonight&hide_border=true&layout=donut&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</td>
-<td width="50%" align="center">
+### Contribution Graph
 
-**Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-
-</td>
-</tr>
-</table>
-
-### 📈 Contribution Activity
-
-<div align="center">
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jancyranijesus2001&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</div>
+</p>
 
 </td>
 </tr>
@@ -104,57 +93,31 @@ Passionate about building AI-powered applications that solve real-world problems
 
 ---
 
-## 🚀 Pinned Repositories
+# Featured AI Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [Liver-Tumor-Segmentation-NAS](https://github.com/jancyranijesus2001/Liver-Tumor-Segmentation-NAS)
-AI-based liver tumor segmentation using Neural Architecture Search and Deep Learning.
-
-`Python` `Deep Learning` `NAS` `Medical AI`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ EV-Electricity-Prediction-using-ML
-Machine learning project for predicting EV electricity consumption and analyzing energy usage.
-
-`Python` `Machine Learning` `Regression`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 smart_food_forecast_system
-AI-powered food demand forecasting system using machine learning.
-
-`Python` `Machine Learning` `Forecasting`
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Detection-and-Classification-of-Fake-News-using-NLP
-NLP-based fake news detection and classification using ML and DL techniques.
-
-`Python` `NLP` `Deep Learning`
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🧠 **Memora AI** | RAG + ChromaDB + Google Gemini |
+| 🌍 **Landslide Prediction** | GCN + LSTM + SAR Imagery |
+| 🫁 **Lung Cancer Detection** | CNN + NAS Medical AI |
+| 😊 **Emotion Detection** | Deep Learning using NAS |
+| ⚡ **EV Electricity Prediction** | Machine Learning Regression |
+| 🌾 **Crop Prediction** | ML + Fertilizer Recommendation |
 
 ---
 
 <div align="center">
 
-> "The best way to predict the future is to invent it." — Alan Kay
+### Connect with Me
 
-<img src="https://komarev.com/ghpvc/?username=jancyranijesus2001&style=for-the-badge&color=7B61FF" />
+<a href="https://linkedin.com/in/jancy-rani-t-9a02a82b5">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**AI • ML • DL • Python • Computer Vision**
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0B1020&height=120&section=footer"/>
