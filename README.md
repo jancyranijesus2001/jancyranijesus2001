@@ -54,36 +54,6 @@ I'm a Python developer focused on **Artificial Intelligence, Machine Learning, a
 
 > 💡 Add a live link or repo badge next to each project once they're public — it makes this table clickable and much more convincing to recruiters.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jancyranijesus2001&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=jancyranijesus2001&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jancyranijesus2001&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jancyranijesus2001&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
