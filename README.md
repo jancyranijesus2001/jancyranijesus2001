@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jancy Rani T</h1>
-<h3 align="center">Python Developer | AI & ML Engineer | Deep Learning Enthusiast</h3>
+<h3 align="center">Python Developer @ Mayugam Info Tech | ML & Deep Learning Enthusiast | React Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jancy-rani-t-9a02a82b5">
@@ -23,12 +23,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a Python developer focused on **Artificial Intelligence, Machine Learning, and Deep Learning**, with hands-on experience building real-world models across vision, language, and time-series problems.
+Python Developer (she/her) at **Mayugam Info Tech**, based in Coimbatore, focused on **Machine Learning, Deep Learning, and Full Stack development**. I build AI-powered applications end to end — from model training to a working Flask/React front end.
 
-- 🔭 Currently building AI/ML projects spanning CNNs, LSTMs, GCNs, and RAG pipelines
+- 💼 Currently working as a Python Developer, building AI-powered and full-stack applications
+- 🔭 Recent work: GCN-LSTM landslide monitoring with SAR imagery, liver tumor segmentation, EV electricity demand prediction
 - 🧠 Interested in Computer Vision, NLP, and applied Deep Learning
 - 🌐 Full-stack capable — Django, Flask, and React for end-to-end AI applications
 - 🗄️ Comfortable with PostgreSQL and MySQL for data-driven backends
+- 📍 Coimbatore, India
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/jancy-rani-t-9a02a82b5)
 
 ---
@@ -41,19 +43,51 @@ I'm a Python developer focused on **Artificial Intelligence, Machine Learning, a
 
 ---
 
-## 🚀 Featured AI Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🌍 **Landslide Prediction** | Spatiotemporal model to predict landslide risk | GCN + LSTM |
-| 🤖 **Memora AI** | Retrieval-augmented AI assistant with contextual memory | RAG + Gemini |
-| 🫁 **Lung Cancer Detection** | Medical image classification with automated architecture search | CNN + NAS |
-| 😊 **Emotion Detection** | Real-time facial emotion recognition | Deep Learning |
-| 🌾 **Crop Prediction** | Yield/crop recommendation from agricultural data | Machine Learning |
-| 📊 **EduPulse** | Student performance prediction and analytics | XGBoost |
+| 🌍 [**Landslide GCN-LSTM Monitoring**](https://github.com/jancyranijesus2001/landslide-gcn-lstm-monitoring) | Monitoring and prediction of landslide-related deformation using SAR imagery | GCN + LSTM |
+| 🛡️ [**Cyber Threat Classification**](https://github.com/jancyranijesus2001/cyber-threat-classification-deep-learning) | Deep learning system to classify cyber threats from network data | TensorFlow + Flask |
+| 📰 [**Fake News Detection & Classification**](https://github.com/jancyranijesus2001/Detection-and-Classification-of-Fake-News-using-Natural-Language-Processing-and-Machine-Learning) | AI-powered fake news detection using NLP and ML/DL techniques | NLP + ML + DL |
+| 🌾 [**Crop & Fertilizer Recommendation**](https://github.com/jancyranijesus2001/crop-prediction---fertilizer-recommendation) | Flask-based system recommending crops and fertilizers from soil/weather data | Flask + ML |
+| 🫀 **Liver Tumor Segmentation** | Medical image segmentation for liver tumor detection | Deep Learning |
+| ⚡ **EV Electricity Demand Prediction** | Forecasting electricity demand for EV charging | Machine Learning |
+| 🎓 [**Student Performance Prediction**](https://github.com/jancyranijesus2001/Student-Performance-Prediction) | Predicting student academic performance from historical data | Machine Learning |
+| 🔧 [**AI Predictive Maintenance**](https://github.com/jancyranijesus2001/Ai-predictive-maintainanace) | Predicting equipment failure before it happens | Machine Learning |
 
-> 💡 Add a live link or repo badge next to each project once they're public — it makes this table clickable and much more convincing to recruiters.
+> 💡 A couple of these (Liver Tumor Segmentation, EV Electricity Prediction) don't have public repo links yet — add them once those repos are public so every row is clickable.
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jancyranijesus2001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=jancyranijesus2001&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyranijesus2001&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jancyranijesus2001&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jancyranijesus2001&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
